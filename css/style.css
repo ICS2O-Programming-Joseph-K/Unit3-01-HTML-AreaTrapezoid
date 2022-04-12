@@ -1,0 +1,14 @@
+body {
+  background-color: #ababab;
+}
+
+h1 {
+  background-color: #0062ff;
+  color: hsl(0, 0%, 0%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #ababab;
+}
